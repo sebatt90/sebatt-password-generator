@@ -1,0 +1,3 @@
+/home/sebatt90/Documenti/cpp-projects/test/CMakeFiles/rebuild_cache.dir
+/home/sebatt90/Documenti/cpp-projects/test/CMakeFiles/edit_cache.dir
+/home/sebatt90/Documenti/cpp-projects/test/CMakeFiles/password_generator.dir
